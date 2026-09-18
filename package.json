@@ -1,0 +1,10 @@
+{
+  "name": "trinhchieu_cauthep_hyperframes",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "npx --yes serve .",
+    "present": "npx --yes serve .",
+    "check": "npx --yes serve ."
+  }
+}
